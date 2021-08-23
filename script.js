@@ -20,6 +20,6 @@ var checkDead = setInterval(function(){
         block.style.display = 'none';
         alert('u lose')
     }
-}, 10);
+}, 70);
 
-alert("ready?")
+alert("ready? click 2 jump")
